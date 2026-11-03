@@ -1,0 +1,14 @@
+간단 이력서 프롬프트
+
+나만의 프로필 웹사이트를 만들고 싶어. 다음 정보를 포함해줘:
+- 이름: 천세경
+- 직업/역할: 백엔드 개발자. JAVA/Spring 주력
+- 소개: [알아서 작성]
+- 기술 스택: JAVA, Spring, Javascript, html, css, mysql, git, postgresql,
+- 프로젝트/포트폴리오 섹션
+- 연락처: github/GyeongSe99
+
+HTML, CSS, JavaScript로 만들고 Tailwind CSS CDN을 사용해줘.
+모던하고 깔끔한 디자인으로 만들어줘.
+
+먼저 어떻게 만들 건지 계획을 보여줘.
