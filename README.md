@@ -73,7 +73,9 @@ git push -u origin main
 
 **결과**
 
-푸시 결과는 아래 "현재 상태"에 정리되어 있습니다.
+- `README.md`가 `Add README.md` 커밋으로 기록되었습니다.
+- 브랜치 이름을 `master`에서 `main`으로 변경했습니다.
+- 원격 저장소 `origin`이 등록되었고 `main` 브랜치 푸시에 성공했습니다. 이후 `main`은 `origin/main`을 추적합니다.
 
 ## 현재 상태
 
